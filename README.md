@@ -1,4 +1,5 @@
-# heart-disease-prediciton
+# Heart Disease Prediciton
+
 Predicting heart disease likelihood using different ML algorithms
 
 The main goal of the project is to predict whether patient has low or high likelihood of heard disease
